@@ -1,0 +1,28 @@
+{
+  "name": "react-hooks",
+  "version": "1.0.0",
+  "description": "lesson 1 React hooks can be used only on functional component useState useRef useEffect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmaovhasncript/react-hooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmaovhasncript/react-hooks/issues"
+  },
+  "homepage": "https://github.com/jmaovhasncript/react-hooks#readme",
+  "dependencies": {
+    "next": "^9.0.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
